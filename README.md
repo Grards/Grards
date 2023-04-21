@@ -16,7 +16,7 @@ A pirat who loves coding some things.
 - 🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
 - 📫 Oh! I'm living in belgium. In case if...
 
-### Here's, somme complementary informations
+## Here's, some complementary informations
 
 ![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grards&theme=radical&hide_langs_below=8&count_private=true) 
