@@ -1,25 +1,20 @@
-## Hello there ...
+## Hello there ... Are you lost ?
+
+I'm Steve. I'm a web developer. A gamer. And a pirat. No. Not that sort of pirat... 
+I'm not a Hacker. Just a pirat. :sailboat:
+
+A pirat who loves coding some things.
+
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h81ppw7g4hkephhsteu31hkp4iwclw83w2f8m5h3&rid=giphy.gif&ct=g" alt="A gif of a perso who is coding">
 
 
+## What do you want to know about me ?
 
-- 🔭 I’m currently working on my **web skills** and my **algorithmic logic**. And that's not bad.
-- 🌱 I’m currently learning @ <a href="www.becode.org">Becode</a>, in Charleroi.
-- ⚡ Fun fact: I'm a pirat. No. Not that sort of pirat... I'm not a Hacker. Just a pirat. :sailboat:
+🔭 I work on my **web skills** and my **algorithmic logic**.
+🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
+📫 Oh! I'm living in belgium. In case if...
 
-<!--
-**Grards/Grards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Here's, somme complementary informations
 
 ![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grards&theme=radical&hide_langs_below=8&count_private=true) 
