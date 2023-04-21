@@ -1,6 +1,6 @@
 ### Hello there ...
 
-![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
+
 
 - 🔭 I’m currently working on my **web skills** and my **algorithmic logic**. And that's not bad.
 - 🌱 I’m currently learning @ <a src="www.becode.org">Becode</a>, in Charleroi.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grards&theme=radical&hide_langs_below=8&count_private=true) 
 
