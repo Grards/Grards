@@ -10,9 +10,9 @@ A pirat who loves coding some things.
 
 ## What do you want to know about me ?
 
-🔭 I work on my **web skills** and my **algorithmic logic**.
-🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
-📫 Oh! I'm living in belgium. In case if...
+- 🔭 I work on my **web skills** and my **algorithmic logic**.
+- 🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
+- 📫 Oh! I'm living in belgium. In case if...
 
 ### Here's, somme complementary informations
 
