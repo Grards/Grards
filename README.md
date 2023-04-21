@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there ...
 
 - 🔭 I’m currently working on my **web skills** and my **algorithmic logic**. And that's not bad.
 - 🌱 I’m currently learning @ <a src="www.becode.org">Becode</a>, in Charleroi.
