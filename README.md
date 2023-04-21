@@ -1,4 +1,4 @@
-## Hello there ... Are you lost ?
+# Hello there ... Are you lost ?
 
 I'm Steve. I'm a web developer. A gamer. And a pirat. No. Not that sort of pirat... 
 I'm not a Hacker. Just a pirat. :sailboat:
@@ -9,6 +9,11 @@ A pirat who loves coding some things.
 
 
 ## What do you want to know about me ?
+
+<img src="https://img.shields.io/badge/web_dev-junior-informational?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/badge/pirat-cool-black?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/badge/rolist-cool-red?style=for-the-badge&logo=appveyor">
+
 
 - 🔭 I work on my **web skills** and my **algorithmic logic**.
 - 🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
