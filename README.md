@@ -1,5 +1,7 @@
 ### Hello there ...
 
+![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
+
 - 🔭 I’m currently working on my **web skills** and my **algorithmic logic**. And that's not bad.
 - 🌱 I’m currently learning @ <a src="www.becode.org">Becode</a>, in Charleroi.
 - ⚡ Fun fact: I'm a pirat. No. Not that sort of pirat... I'm not a Hacker. Just a pirat. :sailboat:
@@ -21,4 +23,4 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grards&theme=radical&hide_langs_below=8&count_private=true) 
-![](https://github-readme-stats.vercel.app/api?username=Grards&show_icons=true&theme=radical&count_private=true)
+
