@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my **web skills** and my **algorithmic logic**. And that's not bad.
-- 🌱 I’m currently learning @ <a src="www.becode.org">Becode</a>, in Charleroi.
+- 🌱 I’m currently learning @ <a href="www.becode.org">Becode</a>, in Charleroi.
 - ⚡ Fun fact: I'm a pirat. No. Not that sort of pirat... I'm not a Hacker. Just a pirat. :sailboat:
 
 <!--
