@@ -10,7 +10,7 @@ A pirat who loves coding some things.
 
 ## What do you want to know about me ?
 
-<img src="https://img.shields.io/badge/A_junior-Web_Dev-informational?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/A_cool-Pirat-black?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/A crazy-rolist_Game_Master-red?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/badge/A_junior-Web_Dev-informational?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/A_cool-Pirate-black?style=for-the-badge&logo=appveyor"> <img src="https://img.shields.io/badge/A crazy-rolist_Game_Master-red?style=for-the-badge&logo=appveyor">
 
 - 🔭 I work on my **web skills** and my **algorithmic logic**.
 - 🌱 I’m also currently learning @<a href="www.becode.org" target="_blank">Becode</a>, in Charleroi.
