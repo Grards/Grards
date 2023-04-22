@@ -1,7 +1,7 @@
 # Hello there ... Are you lost ?
 
-I'm Steve. I'm a web developer. A gamer. And a pirat. No. Not that sort of pirat... 
-I'm not a Hacker. Just a pirat. :sailboat:
+I'm Steve. I'm a web developer. A gamer. And a pirate. No. Not that sort of pirate... 
+I'm not a Hacker. Just a pirate. :sailboat:
 
 A pirat who loves coding some things.
 
